@@ -1,8 +1,8 @@
 # Weather forecast application
 
-# The display gif demo:
+The display gif demo:
 
-# 运行效果gif如下所示：
+运行效果gif如下所示：
 
 
 ![Weather application](show/screencast.gif)
