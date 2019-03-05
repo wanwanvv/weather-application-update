@@ -17,10 +17,6 @@ As the project is updated based on the project of dragona and added some functio
 If we need to specify what we will be doing, here is the list:
 该应用是在原有项目的基础上添加了部分功能实现的，我在这里主要说明一下我所更新得部分得实现。
 
-
-# Designing the application in Android Studio
-# 前端：在android studio中设计这个应用的界面
-
 I have not change the main design of UI and what I only do is to add TextViews below the icons to show the temperatures of the next four days.
 
 对于整体界面我没有做任何改动，仅仅是在图标的下面添加了TextView来展示接下来四天的温度。
@@ -186,10 +182,6 @@ I will do most of the design work in the 'activity_main.xml' which is located in
     </LinearLayout>
 
 ```
-
-
-# Connecting the application to the Internet and updating the content based on the weather forecast
-# 后端：将应用连上网络并依据天气预报信息对内容进行更新
 
 First we need to put the privilege request in the AndroidManifest.xml. Hence we could get access to the Internet.
 
