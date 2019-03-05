@@ -16,10 +16,6 @@ And the design of the application is as follows:
 As the project is updated based on the project of dragona and added some functions, I will explain how to implement the update about the update part.
 If we need to specify what we will be doing, here is the list:
 该应用是在原有项目的基础上添加了部分功能实现的，我在这里主要说明一下我所更新得部分得实现。
-+将我们今天的任务稍微细分一下，主要包括以下这些:
-
-- [Designing the application in Android Studio (前端：在android studio中设计这个应用的界面)](#designing-the-application-in-android-studio)
-- [Connecting the application to the Internet and updating the content based on the weather forecast (后端：将应用连上网络并依据天气预报信息对内容进行更新)](#connecting-the-application-to-the-internet-and-updating-the-content-based-on-the-weather-forecast)
 
 
 # Designing the application in Android Studio
