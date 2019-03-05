@@ -1,4 +1,4 @@
-The snapshot of my application ruuning on the genymotion virtual devices showa:
+The snapshot of my application ruuning on the genymotion virtual devices show:
 
 运行效果如图所示：
 
